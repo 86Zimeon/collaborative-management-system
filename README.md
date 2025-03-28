@@ -30,7 +30,7 @@ The Collaborative Task Management Web App is a semester-long project designed to
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/collaborative-management-system.git
+git clone https://github.com/86Zimeon/collaborative-management-system.git
 cd collaborative-management-system
 ```
 
