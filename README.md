@@ -30,8 +30,8 @@ The Collaborative Task Management Web App is a semester-long project designed to
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/task-management-app.git
-cd task-management-app
+git clone https://github.com/your-username/collaborative-management-system.git
+cd collaborative-management-system
 ```
 
 2. **Install client dependencies**
